@@ -1,0 +1,18 @@
+img {
+    width: 400px;
+    height: 200px;
+  }
+button {
+    width: 50px;
+    height: 20px;
+  }
+p {
+    border: 1px solid black;
+    width:20%;
+    background-color: rgb(240, 247, 149);
+}
+h1 {
+    border: 1px solid black;
+    width:20%;
+    background-color: rgb(240, 247, 149);
+}
